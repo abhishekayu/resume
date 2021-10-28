@@ -6,6 +6,8 @@ HTML
 ```
 CSS
 ```
+Click for preview 👇
+
 ![video-to-gif-converter](https://user-images.githubusercontent.com/64314222/139234888-1ea22719-75cf-42e6-ae2d-83a39fa60ec3.gif)
 
 ### Languages and Tools:
